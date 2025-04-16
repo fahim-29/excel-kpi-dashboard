@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard-preview.png)
+
 # Excel KPI Dashboard
 
 This project showcases a fully interactive KPI dashboard built in Microsoft Excel. The dashboard visualizes key financial metrics such as revenue, profit, and cash flow across different time periods, allowing for trend analysis and business insights.
