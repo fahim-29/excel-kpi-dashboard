@@ -1,6 +1,7 @@
 ![Dashboard Preview](dashboard-preview.png)
 ![GitHub repo size](https://img.shields.io/github/repo-size/fahim-29/excel-kpi-dashboard)
 ![GitHub last commit](https://img.shields.io/github/last-commit/fahim-29/excel-kpi-dashboard)
+> 📊 Built with Microsoft Excel | Visual KPI Dashboard | No VBA
 
 
 # Excel KPI Dashboard
